@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"> <br>
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=cloudirector&theme=dark&show_icons=true&hide_border=true&count_private=true"> <br>
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudirector&theme=dark&hide_border=true"> <br>
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudirector&theme=dark&show_icons=true&hide_border=true&layout=compact"> <br>
-  <img width="450" src="https://github-contributor-stats.vercel.app/api?username=cloudirector&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true"> <br>
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt=""><br><br>
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=cloudirector&theme=dark&show_icons=true&hide_border=true&count_private=true" alt=""><br><br>
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudirector&theme=dark&hide_border=true" alt=""><br><br>
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudirector&theme=dark&show_icons=true&hide_border=true&layout=compact" alt=""><br><br>
+  <img width="450" src="https://github-contributor-stats.vercel.app/api?username=cloudirector&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="">
+</p>
